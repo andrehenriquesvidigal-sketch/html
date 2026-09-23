@@ -35,8 +35,43 @@
     color : rgb(0, 0, 0);
     font-size: 35px;
 }
-.ulpc{
+.nav-item:hover .nav-link{
+    color: red;
+}
+.paragrafo1ps{
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 35px;
+}
+.paragrafo3ps{
     text-align: center;
     color : rgb(0, 0, 0);
     font-size: 25px;
 }
+.h1ps{
+    text-align: center;
+    color : rgb(87, 202, 255);
+}
+.paragrafo2ps{
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 25px;
+}
+.escondido {
+    display: none;
+}
+.hobbies{
+    text-align: center;
+    color : rgb(87, 202, 255);
+}
+.paragrafohobbies{
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 25px;
+}
+.listahobbies{
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 20px;
+}
+
