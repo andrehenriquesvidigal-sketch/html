@@ -1,0 +1,27 @@
+.h1{
+    text-align: center;
+    color : rgb(87, 202, 255);
+}
+.navbar {
+    background-color:aqua;
+}
+.paragrafo1{
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 35px;
+}
+.paragrafo2{
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 25px;
+}
+.paragrafo3{
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 20px;
+}
+.img{
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
